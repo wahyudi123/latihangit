@@ -1,1 +1,0 @@
-<?php hash_update_stream(context, handle) ?>
